@@ -1,0 +1,4 @@
+id,name,lastname,phone,email,created_at,deleted_at
+1,Ainur,Kildibekov,89373334266,ainur@mail.ru,04.09.2022,nil
+2,Ivan,Ivanov,88005553535,ivanov@mail.ru,02.09.2022,nil
+3,Sokol,Sokolov,833434343523,sokol@mail.ru,01.09.2022,02.09.2022
